@@ -1,1 +1,2 @@
 #Tjkk2er
+getwd()
